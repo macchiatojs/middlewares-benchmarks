@@ -1,0 +1,16 @@
+#       OS        #
+###################
+.DS_Store
+.idea
+Thumbs.db
+tmp
+temp
+
+
+#     Node.js     #
+###################
+node_modules
+app-builder
+package-lock.json
+yarn.lock
+
